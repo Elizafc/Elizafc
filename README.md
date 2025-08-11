@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm a CS student from Brazil who likes web development and <br>machine learning.
+Hello! I'm a CS student from Brazil who likes data science and <br>machine learning.
 
 
 ## 🌐 Socials:
