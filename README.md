@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm a CS student from Brazil who have interest in the areas of<br> Fullstack Development and Software Engineering.
+Hello! I'm a CS student from Brazil who have interest in the areas of<br> Web Development and Software Engineering.
 
 
 ## 🌐 Socials:
